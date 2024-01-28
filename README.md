@@ -1,24 +1,23 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, Sou um desenvolvedor Full-Stacks! 👋
 
-Sou um desenvolvedor apaixonado por [suas tecnologias favoritas]. Atualmente, estou trabalhando em [projeto atual] e explorando [tecnologia ou conceito que está aprendendo].
+Sou um desenvolvedor apaixonado pelo universo de tecnologia. Atualmente, estou trabalhando com Python (Flask) e Typescript (React), mas sigo explorando novas tecnologias.
 
 ## 🔧 Tecnologias e Ferramentas
 
-- [Tecnologia 1]
-- [Tecnologia 2]
-- ...
+- Python
+- Typescript
+- SQL
 
 ## 🌱 Atualmente Aprendendo
 
-- [Conceito/Tecnologia em aprendizado]
+- React
 
 ## 📫 Como Entrar em Contato
 
-- LinkedIn: [Seu LinkedIn]
-- Twitter: [Seu Twitter]
-- ...
+- LinkedIn: https://www.linkedin.com/in/lucasaguiarm/
+- Email: lucas.9526@hotmail.com
 
 ## ⚡ Fun Fact
 
-[Algo interessante sobre você]
+No meu tempo livre gosto de fazer questões do LeetCode e trabalhar em um projeto próprio.
 
