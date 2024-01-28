@@ -11,13 +11,14 @@ Sou um desenvolvedor apaixonado pelo universo de tecnologia. Atualmente, estou t
 ## 🌱 Atualmente Aprendendo
 
 - React
-
+- Flask
+  
 ## 📫 Como Entrar em Contato
 
 - LinkedIn: https://www.linkedin.com/in/lucasaguiarm/
 - Email: lucas.9526@hotmail.com
 
-## ⚡ Fun Fact
+## ⚡ Curiosidade Interessante
 
 No meu tempo livre gosto de fazer questões do LeetCode e trabalhar em um projeto próprio.
 
