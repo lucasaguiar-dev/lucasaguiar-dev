@@ -4,9 +4,9 @@ Sou um desenvolvedor apaixonado pelo universo de tecnologia. Atualmente, estou t
 
 ## 🔧 Tecnologias e Ferramentas
 
-- Python (Flask | Django | RPA)
 - Javascript | HTML | CSS
 - Typescript (React)
+- Python (Flask | Django | RPA)
 - SQL (OracleSQL | Postgresql | MySQL)
 
 ## 🌱 Atualmente Aprendendo
