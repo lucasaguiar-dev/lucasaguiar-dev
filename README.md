@@ -1,6 +1,6 @@
 # Olá, Sou um desenvolvedor Full-Stacks! 👋
 
-Sou um desenvolvedor apaixonado pelo universo de tecnologia. Atualmente, estou trabalhando com Python (Flask) e Typescript (React), mas sigo explorando novas tecnologias.
+Sou um desenvolvedor apaixonado pelo universo de tecnologia. Atualmente, estou trabalhando principalmente com Python (Flask) no backend, Typescript (React) no frontend e PostgreSQL como banco de dados, mas sigo explorando novas tecnologias.
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -21,5 +21,5 @@ Sou um desenvolvedor apaixonado pelo universo de tecnologia. Atualmente, estou t
 
 ## ⚡ Curiosidade Interessante
 
-No meu tempo livre gosto de fazer questões do LeetCode e trabalhar em um projeto próprio.
+No meu tempo livre gosto de fazer questões do LeetCode e Codewars, também costumo codar em projetos paralelos.
 
