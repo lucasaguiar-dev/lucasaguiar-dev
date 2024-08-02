@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado pelo universo de tecnologia. Atualmente, estou t
 - Python (Flask | Django | RPA)
 - SQL (OracleSQL | Postgresql | MySQL)
 
-## 🌱 Atualmente Aprendendo
+## 🌱 Atualmente Estudando
 
 - React
 - Flask
