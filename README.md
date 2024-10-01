@@ -12,7 +12,7 @@ Sou um desenvolvedor apaixonado pelo universo de tecnologia. Atualmente, estou t
 ## 🌱 Atualmente Estudando
 
 - React
-- Flask
+- Flask/Django
   
 ## 📫 Como Entrar em Contato
 
